@@ -1,0 +1,4 @@
+[submodule "lib/fcp_libraries_hosogaya"]
+	path = lib/fcp_libraries_hosogaya
+	url = https://gitlab.com/fcp-multi-legged-robot-project/fcp_libraries_hosogaya.git
+	branch = main
